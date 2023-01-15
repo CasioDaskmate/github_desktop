@@ -51,5 +51,20 @@
 - Reproduction — 复制
 - Control — 控制
 
-#### Ingestion —— 摄取
+### 摄取：内吞作⽤ (Endocytosis)
+##### 扩散 (Diffusion)；
+##### 主动运输 (Active Transport)
 
+#### 胞饮 (Pinocytosis)
+- Ingestion of minute particles that form vesicles of extracellular fluid and particulate constituents inside the cell cytoplasm.
+1. 连续发⽣，快速的过程
+2. 囊泡尺⼨100-200 nm
+3. 蛋⽩等⼤分⼦
+4. 消耗ATP
+5. 需要胞外Ca2+
+
+#### 胞吞 (Phagocytosis)
+- Ingestion of larger particles, otherwise similar to pinocytosis.
+1. 少数细胞具有这⼀能⼒(例如巨噬细胞)
+2. 细菌，细胞碎⽚等
+3. 消耗ATP
