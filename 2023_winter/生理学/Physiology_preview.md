@@ -30,3 +30,26 @@
     
     - 机体的复制（⽣殖系统）
 
+# 1、细胞生理
+
+## overview
+- 细胞学说：略
+- 细胞的物质组成：略
+- 细胞的结构：略
+- 细胞器：略
+- 细胞的基本功能
+
+## 细胞的基本功能
+
+### overview
+- Ingestion — 摄取
+- Digestion — 消化
+- Synthesis — 合成
+- Energy — 能量
+- Exocytosis — 胞吐
+- Motility — 运动
+- Reproduction — 复制
+- Control — 控制
+
+#### Ingestion —— 摄取
+
