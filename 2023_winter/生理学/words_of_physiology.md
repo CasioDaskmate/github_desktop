@@ -7,3 +7,7 @@ Each of these fibers is made up of **successively** smaller subunits, also shown
 > successively 相继地，接连着地
 subsequent 随后的
 
+The initiation and **execution** of muscle contraction occur in the following **sequential** steps.
+> execution 执行，实施
+sequential 连续的
+
